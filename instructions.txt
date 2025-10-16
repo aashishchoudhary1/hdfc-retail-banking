@@ -1,22 +1,13 @@
 This is test with git
 
-HEAD
-
- HEAD
- HEAD
 There is another test and added more comments
 
- HEAD
- HEAD
 Hi , I am Tanmay from VIT Vellore.
 
 this is from VNRVJIET
 
 
 Commit made by Sreenidhi
-HEAD
- 8e66729 (git push upstream main)
-There is another test and added more comments.
 
 
 
@@ -25,8 +16,6 @@ Hi I am Shubhranshu Satpathy from KIIT.
 There is another test and added more comments
 
 Another comment from VNR VJIET
- 04d15a3 (new changes)
- f81135e8113babcc63400aeb892557b60c31060b
 
 These changes are made by Neha.
 
@@ -35,27 +24,20 @@ There is another test and added more comments
 Another comment from VNR VJIET
 Hi! This is Yuva
 Hello from Tanmay
- 3f2986205638837b498a15b0868131ec033077e0
 
 These Changes are by Neha Sharma
 
 Hi, I am Lathika
- HEAD
- HEAD
- a274b47a21a9f1f814ba72e1d25ba81650179db2
 
 HI, I an Debarghya from KIIT
 
 Hi I am Pratyush Singh from KIIT.
 
-There is another test and added more comments
- 7d9a251bf506e3e62e4c2fe20697bccc53444963
 
 This is Yuva Annapareddy from VIT.
 There is another test and added more comments
 
 
-8e66729 (git push upstream main)
 
 
 Hey I'm Yaswitha from VNRVJIET
