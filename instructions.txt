@@ -1,46 +1,110 @@
+Hi I am Pratyush Singh from KIIT.
+There is another test and added more comments
 This is test with git
 
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 There is another test and added more comments
 
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 2708f87 (Added comment line in instruction file for training)
+
+Hi , I am Tanmay from VIT Vellore.
+
+
+There is another test and added more comments
+
+Hi , I am Tanmay from VIT Vellore.
+
 There is another test and added more comments.
 
 
 
 Hi I am Shubhranshu Satpathy from KIIT.
-<<<<<<< HEAD
-=======
+
+This is Yuva Annapareddy from VIT.
+Hi there Soham from VIT Vellore
+
 There is another test and added more comments
 
 Another comment from VNR VJIET
->>>>>>> 04d15a3 (new changes)
->>>>>>> f81135e8113babcc63400aeb892557b60c31060b
+
+this is from VNRVJIET
+
+Created a new branch
+Commit made by Sreenidhi
+HEAD
+
+There is another test and added more comments.
+
+Hi I am Shubhranshu Satpathy from KIIT.
+
+Another comment from VNR VJIET
 
 These changes are made by Neha.
-=======
+
+
+Hii I'm Srijita Mallik from KIIT University.
+There is another test and added more comments
+
+Another comment from VNR VJIET
+These changes are made by Neha.
+
 There is another test and added more comments
 
 Another comment from VNR VJIET
 Hi! This is Yuva
 Hello from Tanmay
->>>>>>> 3f2986205638837b498a15b0868131ec033077e0
+
 
 These Changes are by Neha Sharma
 
 Hi, I am Lathika
+
+
+HI, I an Debarghya from KIIT
+
 Hi I am Pratyush Singh from KIIT.
-=======
-There is another test and added more comments
-=======
-This is Yuva Annapareddy from VIT.
-=======
 There is another test and added more comments
 
+This is Yuva Annapareddy from VIT.
+
+There is another test and added more comments
+
+This is Ashutosh Jena from KIIT.
+
+(Hi I am Shikhar from KIIT)
+
+
+HI, I an Debarghya from KIIT
+
+Hi I am Pratyush Singh from KIIT.
+
+There is another test and added more comments
+
+This is Yuva Annapareddy from VIT.
+There is another test and added more comments
+
+Ashu
 Hi This is Ashutosh Jena from KIIT.
+=======
+Garvit Agarwal
+
+Hi, Iam Varaprasad From VNRVJIET
+
+This is to check stashed commands by Neha.
+
+This is to check stashed commands by Neha.
+
+This is to check stashed commands by Neha.
+
+This is to check stashed commands by Neha.
+
+
+
+Hey I'm Yaswitha from VNRVJIET
+
+
+
+
+This is Shikhar from KIIT.
+This is SnehaLatha From VIT
+Manasa M
+
+main
