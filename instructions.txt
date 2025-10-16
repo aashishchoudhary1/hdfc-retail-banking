@@ -3,6 +3,7 @@ This is test with git
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 There is another test and added more comments
 
 <<<<<<< HEAD
@@ -12,11 +13,14 @@ Hi , I am Tanmay from VIT Vellore.
 =======
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 2708f87 (Added comment line in instruction file for training)
 There is another test and added more comments.
 
 
 
 Hi I am Shubhranshu Satpathy from KIIT.
+<<<<<<< HEAD
 =======
 There is another test and added more comments
 
@@ -44,4 +48,13 @@ Hi, I am Lathika
 Hi I am Pratyush Singh from KIIT.
 =======
 There is another test and added more comments
+<<<<<<< HEAD
 >>>>>>> 7d9a251bf506e3e62e4c2fe20697bccc53444963
+=======
+=======
+This is Yuva Annapareddy from VIT.
+=======
+There is another test and added more comments
+
+This is Ashutosh Jena from KIIT.
+>>>>>>> b40752053fe081c46bd88ff16d728319d1f5b4c3
