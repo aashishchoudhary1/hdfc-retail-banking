@@ -1,0 +1,5 @@
+This is the first git file I am using.
+
+I am adding a new command to verify change and update functionalities
+
+New within a branch
