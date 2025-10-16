@@ -1,6 +1,19 @@
 This is test with git
 
-
 There is another test and added more comments
 
-This commit is by Kanchan Rai , I'm from Amity University
+Contributors:
+- Kanchan Rai from Amity University
+- Tanmay from VIT Vellore
+- Shubhranshu Satpathy from KIIT
+- Srijita Mallik from KIIT University
+- Neha Sharma
+- Yuva Annapareddy from VIT
+- Lathika
+- Debarghya from KIIT
+- Pratyush Singh from KIIT
+
+Additional comments:
+- Another comment from VNR VJIET
+- These changes are made by Neha
+- Hello from Tanmay
