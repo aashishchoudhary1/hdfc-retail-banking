@@ -5,14 +5,8 @@ There is another test and added more comments
 
 Hi , I am Tanmay from VIT Vellore.
 
-HEAD
-
- HEAD
- HEAD
 There is another test and added more comments
 
- HEAD
- HEAD
 Hi , I am Tanmay from VIT Vellore.
 
 
@@ -33,9 +27,6 @@ Hii I'm Srijita Mallik from KIIT University.
 There is another test and added more comments
 
 Another comment from VNR VJIET
- 04d15a3 (new changes)
- f81135e8113babcc63400aeb892557b60c31060b
-
 These changes are made by Neha.
 
 There is another test and added more comments
@@ -48,7 +39,7 @@ Hello from Tanmay
 These Changes are by Neha Sharma
 
 Hi, I am Lathika
-<<<<<<< HEAD
+
 
 HI, I an Debarghya from KIIT
 
