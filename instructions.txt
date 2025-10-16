@@ -5,9 +5,23 @@ There is another test and added more comments
 
 Hi , I am Tanmay from VIT Vellore.
 
+
 There is another test and added more comments
 
 Hi , I am Tanmay from VIT Vellore.
+
+There is another test and added more comments.
+
+
+
+Hi I am Shubhranshu Satpathy from KIIT.
+
+This is Yuva Annapareddy from VIT.
+Hi there Soham from VIT Vellore
+
+There is another test and added more comments
+
+Another comment from VNR VJIET
 
 this is from VNRVJIET
 
@@ -67,11 +81,9 @@ There is another test and added more comments
 
 Garvit Agarwal
 
-<<<<<<< HEAD
 Hi, Iam Varaprasad From VNRVJIET
-=======
 8e66729 (git push upstream main)
 
 
 Hey I'm Yaswitha from VNRVJIET
->>>>>>> 0e72822ac011f0b76085fc39ee76d19a1dbc928b
+
