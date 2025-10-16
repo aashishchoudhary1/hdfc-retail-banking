@@ -3,4 +3,8 @@ This is test with git
 
 There is another test and added more comments
 
+<<<<<<< HEAD
 This is Ananya making changes.
+=======
+Hi , I am Tanmay from VIT Vellore.
+>>>>>>> 0250ed6f25dbd9f9a90113ebe3bdad6340ebd5db
