@@ -1,4 +1,14 @@
 This is test with git
 
 
+<<<<<<< HEAD
+There is another test and added more comments.
+
+
+
+Hi I am Shubhranshu Satpathy from KIIT.
+=======
 There is another test and added more comments
+
+Another comment from VNR VJIET
+>>>>>>> 04d15a3 (new changes)
