@@ -1,6 +1,39 @@
 This is test with git
 
 
+<<<<<<< HEAD
 There is another test and added more comments
 
 this is ishika changing the file.
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+There is another test and added more comments
+
+=======
+<<<<<<< HEAD
+There is another test and added more comments.
+
+
+
+Hi I am Shubhranshu Satpathy from KIIT.
+=======
+There is another test and added more comments
+
+Another comment from VNR VJIET
+>>>>>>> 04d15a3 (new changes)
+>>>>>>> f81135e8113babcc63400aeb892557b60c31060b
+
+These changes are made by Neha.
+=======
+There is another test and added more comments
+
+Another comment from VNR VJIET
+Hi! This is Yuva
+Hello from Tanmay
+>>>>>>> 3f2986205638837b498a15b0868131ec033077e0
+
+These Changes are by Neha Sharma
+>>>>>>> 6d7e0e733a5f94b703c969af484ac6f53c25a1
+
+This is Ishika.
