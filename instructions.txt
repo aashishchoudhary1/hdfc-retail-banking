@@ -12,7 +12,7 @@ Hi , I am Tanmay from VIT Vellore.
 this is from VNRVJIET
 
 
-
+Commit made by Sreenidhi
 HEAD
 
 There is another test and added more comments.
@@ -68,6 +68,7 @@ There is another test and added more comments
 Garvit Agarwal
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 8e66729 (git push upstream main)
 >>>>>>> 20ab47e4df52d106e73873d7333a91a41482c668
 
@@ -75,16 +76,22 @@ Garvit Agarwal
 
 
 
-
-
-
-
-
-hello, This is Charishma from VNR VJIET.
-
-
-
-
 =======
 Hi, Iam Varaprasad From VNRVJIET
 >>>>>>> 836e95484084234874e98d103e998d4efad67283
+=======
+Hi, Iam Varaprasad From VNRVJIET
+=======
+8e66729 (git push upstream main)
+
+
+Hey I'm Yaswitha from VNRVJIET
+>>>>>>> 0e72822ac011f0b76085fc39ee76d19a1dbc928b
+>>>>>>> 5b89bf68ad8f78bee1d80b74fa672c9861951e9c
+
+
+
+
+hello 
+hello, This is Charishma from VNR VJIET.
+hello
