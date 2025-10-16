@@ -2,6 +2,7 @@ This is test with git
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 There is another test and added more comments
 
 <<<<<<< HEAD
@@ -11,3 +12,10 @@ Hi , I am Tanmay from VIT Vellore.
 =======
 There is another test and added more comments
 >>>>>>> 72f91c4645b89a22ced5ba08b34ddadd52fa6483
+=======
+There is another test and added more comments.
+
+
+
+Hi I am Shubhranshu Satpathy from KIIT.
+>>>>>>> 71bda582bf44cb6892c4ca91a1ae0d9f0d64f943
