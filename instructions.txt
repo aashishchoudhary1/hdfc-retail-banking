@@ -36,6 +36,12 @@ Hello from Tanmay
 These Changes are by Neha Sharma
 
 Hi, I am Lathika
+<<<<<<< HEAD
 >>>>>>> a274b47a21a9f1f814ba72e1d25ba81650179db2
 
 >>>>>>>>>>>>>>HI, I an Debarghya from KIIT
+=======
+Hi I am Pratyush Singh from KIIT.
+=======
+There is another test and added more comments
+>>>>>>> 7d9a251bf506e3e62e4c2fe20697bccc53444963
