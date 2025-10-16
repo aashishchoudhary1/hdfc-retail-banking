@@ -5,13 +5,27 @@ There is another test and added more comments
 
 Hi , I am Tanmay from VIT Vellore.
 
+
 There is another test and added more comments
 
 Hi , I am Tanmay from VIT Vellore.
 
+There is another test and added more comments.
+
+
+
+Hi I am Shubhranshu Satpathy from KIIT.
+
+This is Yuva Annapareddy from VIT.
+Hi there Soham from VIT Vellore
+
+There is another test and added more comments
+
+Another comment from VNR VJIET
+
 this is from VNRVJIET
 
-
+Created a new branch
 Commit made by Sreenidhi
 HEAD
 
@@ -71,9 +85,7 @@ There is another test and added more comments
 
 Garvit Agarwal
 
-<<<<<<< HEAD
 Hi, Iam Varaprasad From VNRVJIET
-=======
 8e66729 (git push upstream main)
 <<<<<<< HEAD
 >>>>>>> 20ab47e4df52d106e73873d7333a91a41482c668
@@ -93,5 +105,9 @@ This is to check stashed commands by Neha.
 
 
 Hey I'm Yaswitha from VNRVJIET
+<<<<<<< HEAD
 >>>>>>> 0e72822ac011f0b76085fc39ee76d19a1dbc928b
 >>>>>>> 5b89bf68ad8f78bee1d80b74fa672c9861951e9c
+=======
+
+>>>>>>> 1ea959c090d0c6ac4d5cd8080d6a8883adcf918d
