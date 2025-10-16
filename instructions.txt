@@ -3,4 +3,4 @@ This is test with git
 
 There is another test and added more comments
 
-This commit is by Kanchan Rai 
+This commit is by Kanchan Rai , I'm from Amity University
