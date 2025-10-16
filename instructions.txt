@@ -9,7 +9,7 @@ There is another test and added more comments
 <<<<<<< HEAD
 There is another test and added more comments.
 
-Hi, I'm Garvit from VIT. 
+Hi, I'm Garvit from VIT Chennai. 
 
 Hi I am Shubhranshu Satpathy from KIIT.
 =======
