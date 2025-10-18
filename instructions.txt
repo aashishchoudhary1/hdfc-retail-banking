@@ -1,3 +1,5 @@
+Hi I am Pratyush Singh from KIIT.
+There is another test and added more comments
 This is test with git
 
 There is another test and added more comments
@@ -53,10 +55,6 @@ Hello from Tanmay
 
 These Changes are by Neha Sharma
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 Hi, I am Lathika
 
 
@@ -83,31 +81,31 @@ There is another test and added more comments
 This is Yuva Annapareddy from VIT.
 There is another test and added more comments
 
+Ashu
+Hi This is Ashutosh Jena from KIIT.
+=======
 Garvit Agarwal
 
 Hi, Iam Varaprasad From VNRVJIET
-8e66729 (git push upstream main)
-<<<<<<< HEAD
->>>>>>> 20ab47e4df52d106e73873d7333a91a41482c668
-=======
+
 This is to check stashed commands by Neha.
->>>>>>> Stashed changes
-=======
+
 This is to check stashed commands by Neha.
->>>>>>> Stashed changes
-=======
+
 This is to check stashed commands by Neha.
->>>>>>> Stashed changes
-=======
+
 This is to check stashed commands by Neha.
->>>>>>> Stashed changes
-=======
+
 
 
 Hey I'm Yaswitha from VNRVJIET
-<<<<<<< HEAD
->>>>>>> 0e72822ac011f0b76085fc39ee76d19a1dbc928b
->>>>>>> 5b89bf68ad8f78bee1d80b74fa672c9861951e9c
-=======
 
->>>>>>> 1ea959c090d0c6ac4d5cd8080d6a8883adcf918d
+
+
+
+This is Shikhar from KIIT.
+This is SnehaLatha From VIT
+Manasa M
+
+main
+I AM RIDDHIMA BHANJA FROM KIIT
